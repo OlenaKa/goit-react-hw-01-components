@@ -1,0 +1,6 @@
+.row:nth-child(odd) {
+  background-color: white;
+}
+.row:nth-child(even) {
+  background-color: rgb(244, 253, 253);
+}

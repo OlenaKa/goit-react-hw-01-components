@@ -1,0 +1,17 @@
+.item {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  margin: 10px;
+  box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+}
+
+.avatar {
+  width: 70px;
+}
+.status {
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  display: inline-block;
+}
